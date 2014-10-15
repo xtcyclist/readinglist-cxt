@@ -5,6 +5,8 @@ readinglist.pl is a simple perl script aiming to help you automatically extract 
 
 In the html, a link is generated automatically which allows you to search the title in Google Schoalr by simply clicking on it. 
 
+This script is for Linux only.
+
 Steps to use it:
 
 (1) Instlal Perl and requried packages: Net::SCP and Net::SCP::Expect;
