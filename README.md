@@ -9,12 +9,12 @@ This script is for Linux only.
 
 Steps to use it:
 
-(1) Instlal Perl and requried packages: Net::SCP and Net::SCP::Expect;
+(1) Instlal Perl and requried packages: Net::SCP and Net::SCP::Expect
 
-(2) Modify the readinglist.pl to change personal data into yours;
+(2) Modify the readinglist.pl to change personal data into yours
 
-(3) Modify the bib.bib to add some papers you have just read;
+(3) Modify the bib.bib to add some papers you have just read
 
-(4) run: perl readinglist.pl bib.bib.
+(4) run: perl readinglist.pl bib.bib
 
 Contact: chengxuntao@gmail.com
